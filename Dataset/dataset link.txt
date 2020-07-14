@@ -1,0 +1,2 @@
+Kaggle - https://www.kaggle.com/smid80/coronavirus-covid19-tweets
+ieee - https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset
