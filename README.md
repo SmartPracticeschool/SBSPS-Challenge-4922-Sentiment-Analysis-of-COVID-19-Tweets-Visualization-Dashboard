@@ -1,0 +1,5 @@
+# SBSPS-Challenge-4922-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
+
+dataset link
+https://www.kaggle.com/smid80/coronavirus-covid19-tweets
+https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset
