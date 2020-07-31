@@ -1,0 +1,8 @@
+we have split the code into separate files to make it more understandable
+
+Execute it as per the below order:
+searching.py   --->    sentiment.py  --->   splitTweets.py  --->   compute.py  --->   makeChart.py
+
+After this open the chart.html file
+
+You can see the Dashboard now !!! 
